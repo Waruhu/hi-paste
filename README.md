@@ -37,7 +37,6 @@ Open your browser and visit http://localhost:3000 to view the app.
 ## 📁 Project Structure
 hi-paste/
 ├── .next/               # Build output (ignored in version control)
-├── hi-paste/            # Application logic/components (custom directory)
 ├── node_modules/        # Dependencies
 ├── public/              # Static assets
 ├── src/                 # Source directory
