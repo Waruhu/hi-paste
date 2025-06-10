@@ -34,20 +34,6 @@ npm run dev
 
 Open your browser and visit http://localhost:3000 to view the app.
 
-## 📁 Project Structure
-hi-paste/
-├── .next/               # Build output (ignored in version control)
-├── node_modules/        # Dependencies
-├── public/              # Static assets
-├── src/                 # Source directory
-│   └── pages/           # Next.js pages
-├── tailwind.config.js   # Tailwind CSS configuration
-├── next.config.js       # Next.js configuration
-├── postcss.config.js    # PostCSS configuration
-├── package.json         # Project metadata and scripts
-└── README.md            # Project documentation
-
-
 ## 🔧 Scripts
 - npm run dev – Start development server
 - npm run build – Build for production
